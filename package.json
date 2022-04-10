@@ -1,7 +1,7 @@
 {
   "name": "starter-project",
   "version": "1.0.0",
-  "description": "Parcel with scss, partials, and a base structure that I use to quickly build websites.",
+  "description": "Starter-project with scss, partials, and a base structure that I use to quickly build websites.",
   "main": "index.html",
   "scripts": {
     "start": "sass --watch ./sass/main.scss:./public/css/style.css  --style compressed",
