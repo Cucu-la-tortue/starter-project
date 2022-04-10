@@ -4,7 +4,7 @@
   "description": "Starter-project with scss, partials, and a base structure that I use to quickly build websites.",
   "main": "index.html",
   "scripts": {
-    "start": "sass --watch ./sass/main.scss:./public/css/style.css  --style compressed",
+    "start": "sass --watch ./scss/main.scss:./public/css/style.css",
     "prefix": "postcss ./public/css/style.css --use autoprefixer -d ./public/css/prefixed/"
   },
   "repository": {
